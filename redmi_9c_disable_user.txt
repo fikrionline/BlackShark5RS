@@ -1,0 +1,226 @@
+
+pm disable-user --user 0 com.android.chrome 
+
+
+
+
+pm disable-user --user 0 com.android.providers.partnerbookmarks 
+
+
+
+
+pm disable-user --user 0 com.facebook.appmanager 
+
+
+
+
+pm disable-user --user 0 com.facebook.services
+
+
+
+
+pm disable-user --user 0 com.facebook.system
+
+
+
+
+pm disable-user --user 0 com.google.android.apps.googleassistant 
+
+
+
+
+pm disable-user --user 0 com.google.android.apps.maps 
+
+
+
+
+pm disable-user --user 0 com.google.android.apps.subscriptions.red 
+
+
+
+
+pm disable-user --user 0 com.google.android.apps.wellbeing 
+
+
+
+
+pm disable-user --user 0 com.goggle.android.calendar 
+
+
+
+
+pm disable-user --user 0 com.google.android.feedback 
+
+
+
+
+pm disable-user --user 0 com.google.android.gm 
+
+
+
+
+pm disable-user --user 0 com.google.android.googlequicksearchbox 
+
+
+
+
+pm disable-user --user 0 com.google.android.marvin.talkback 
+
+
+
+
+pm disable-user --user 0 com.google.android.youtube 
+
+
+
+
+pm disable-user --user 0 com.google.android.ar.lens 
+
+
+
+
+pm disable-user --user 0 com.huanqin.diaglogger 
+
+
+
+
+pm disable-user --user 0 com.micredit.in 
+
+
+
+
+pm disable-user --user 0 com.xiaomi.payment							
+
+
+
+
+pm disable-user --user 0 com.mipay.wallet.in 
+
+
+
+
+pm disable-user --user 0 com.miui.analytics 
+
+
+
+
+pm disable-user --user 0 com.miui.bugreport 
+
+
+
+
+pm disable-user --user 0 com.miui.cloudbackup 
+
+
+
+
+pm disable-user --user 0 com.miui.cloudservice
+
+
+
+
+pm disable-user --user 0 com.miui.cloudservice.sybase
+
+
+
+
+pm disable-user --user 0 com.miui.micloudsync
+
+
+
+
+pm disable-user --user 0 com.miui.compass 
+
+
+
+
+pm disable-user --user 0 com.miui.daemon 
+
+
+
+
+pm disable-user --user 0 com.miui.hybrid 
+
+
+
+
+pm disable-user --user 0 com.miui.hybrid.accessory 
+
+
+
+
+pm disable-user --user 0 com.miui.miservice 
+
+
+
+
+pm disable-user --user 0 com.miui.msa.global 
+
+
+
+
+pm disable-user --user 0 com.miui.phrase 
+
+
+
+
+pm disable-user --user 0 com.miui.vsimcore 
+
+
+
+
+pm disable-user --user 0 com.miui.weather2 
+
+
+
+
+pm disable-user --user 0 com.miui.yellowpage 
+
+
+
+
+pm disable-user --user 0 com.netflix.partner.activation 
+
+
+
+
+pm disable-user --user 0 com.tencent.soter.soterservice 
+
+
+
+
+pm disable-user --user 0 com.xiaomi.glgm 
+
+
+
+
+pm disable-user --user 0 com.xiaomi.joyose 
+
+
+
+
+pm disable-user --user 0 com.xiaomi.mi_connect_service 
+
+
+
+
+pm disable-user --user 0 com.xiaomi.mipicks 
+
+
+
+
+pm disable-user --user 0 com.miui.android.fashiongallery 
+
+
+
+
+pm disable-user --user 0 com.xiaomi.miplay_client 
+
+
+
+
+pm disable-user --user 0 com.xiaomi.simactivate.service 
+
+
+
+
